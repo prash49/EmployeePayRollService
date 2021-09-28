@@ -1,4 +1,4 @@
-package com.bridgelabz.employeepayroll;
+package com.bridgelabz.employeepayroll.model;
 
 public class EmployeePayroll {
     private int id;
